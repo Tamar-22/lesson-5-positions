@@ -46,3 +46,45 @@
 	width: 30px;
 	margin-left: 40px;
 }
+/*section#1*/
+.section1{
+	margin-top: 18px;
+	margin-left: 140PX;
+}
+.title{
+	font-size: 24px;
+	color: #202124;
+	font-weight: bold;
+	font-family: 'Roboto';
+}
+.images-block{
+	margin-top: 40px;
+	display: inline-block;
+	margin-right: 40px;
+}
+.background{
+	background-color: #FFFFFF;
+	width: 360px;
+	height: 350px;
+	position: relative;
+}
+.image1{
+	position: absolute;
+}
+.image-title{
+	position: absolute;
+	top: 28px;
+	left: 40px;
+	color: #FFFFFF;
+	font-size: 16px;
+	font-family: 'Roboto';
+}
+.paragraph{
+	position: absolute;
+	top: 246px;
+	width: 240px;
+	line-height: 30px;
+	left: 40px;
+	font-size: 13px;
+	color: #A6ADB4;
+}
