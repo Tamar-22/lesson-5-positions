@@ -88,3 +88,68 @@
 	font-size: 13px;
 	color: #A6ADB4;
 }
+/*section#2*/
+.section2{
+	width: 1160px;
+	margin-top: 65px;
+	margin-left: 140px;
+}
+.title2{
+	font-size: 24px;
+	color: #202124;
+	font-weight: bold;
+	font-family: 'Roboto';
+}
+.section2-block{
+	margin-top: 40px;
+}
+.second-sect-first-block{
+	display: inline-block;
+	vertical-align: top;
+}
+.bridge-image{
+	position: relative;
+	width: 760pxs;
+}
+.image-title2{
+	position: absolute;
+	top: 394px;
+	right: 18px;
+	font-size: 16px;
+	color: #FFFFFF;
+	font-weight: bold;
+	bottom: 20px;
+	font-family: 'Roboto';
+	
+}
+.nature-image{
+	width: 760px;
+	margin-top: 40px;
+}
+.second-sect-second-block{
+	display: inline-block;
+	vertical-align: top;
+	margin-left: 20px;
+
+}
+.elephant-image{
+	position: relative ;
+	width: 360px;
+}
+.image-title3{
+	position: absolute;
+	top: 18px;
+	left: 40px;
+	color: #FFFFFF;
+	font-weight: bold;
+	font-size: 16px;
+	font-family: 'Roboto';
+}
+.parrot-image{
+	width: 360px;
+	margin-top: 102px;
+}
+.way-image{
+	width: 360px;
+	margin-top: 102px;
+}
